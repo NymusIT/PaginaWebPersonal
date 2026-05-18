@@ -1,0 +1,20 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/src/__pycache__/
+backend/src/api/__pycache__/
+*.pyc
+
+# Flask / Database
+backend/.env
+backend/instance/
+backend/src/instance/
+*.db
+
+# React / Node
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# General
+.DS_Store
